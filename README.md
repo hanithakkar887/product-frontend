@@ -25,7 +25,7 @@ https://productfrontend.netlify.app/
 - Axios  
 - CSS  
 - Lucide Icons  
-- Render (Backend Deployment)
+- Render (Backend Deployment).
 
 ---
 
