@@ -3,6 +3,8 @@
 A modern product search and ranking web application built using React.js.  
 Users can search products, view ranked results, add products, update metadata, and navigate using pagination.
 
+## 🌐 Live Website
+https://productfrontend.netlify.app/
 ---
 
 ## 🚀 Features
@@ -41,7 +43,7 @@ https://product-ranking.onrender.com
 ## ⚙️ Installation & Setup
 
 Clone repository:
-git clone https://github.com/YOUR-USERNAME/product-frontend.git
+git clone https://github.com/hanithakkar887/product-frontend
 
 Go inside folder:
 cd product-frontend
@@ -50,7 +52,7 @@ Install dependencies:
 npm install
 
 Run project:
-npm start
+npm run dev
 
 ---
 
