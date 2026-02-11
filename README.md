@@ -1,16 +1,64 @@
-# React + Vite
+# 📦 Product Ranking Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern product search and ranking web application built using React.js.  
+Users can search products, view ranked results, add products, update metadata, and navigate using pagination.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔍 Product search functionality  
+- 📊 Product ranking display  
+- ➕ Add new product  
+- 📝 Update product metadata  
+- 📄 Frontend pagination (without backend pagination API)  
+- 📊 Overall statistics dashboard  
+- ⏳ Loading skeleton UI  
+- ❌ Empty state animation  
+- 🎨 Modern responsive UI  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
+- React.js  
+- Axios  
+- CSS  
+- Lucide Icons  
+- Render (Backend Deployment)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Backend Repository
+Backend API built using Node.js & MongoDB:  
+👉 https://github.com/hanithakkar887/product-ranking
+
+---
+
+## 🌐 Backend API Used
+https://product-ranking.onrender.com
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone repository:
+git clone https://github.com/YOUR-USERNAME/product-frontend.git
+
+Go inside folder:
+cd product-frontend
+
+Install dependencies:
+npm install
+
+Run project:
+npm start
+
+---
+
+## 👩‍💻 Author
+Hani Thakkar  
+Frontend Developer | React Learner | Aspiring Data Engineer
+
+---
+
+## ⭐ If you like this project
+Give it a star on GitHub ⭐
